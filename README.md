@@ -1,4 +1,4 @@
-# Ministry of Labour and Vacation do on Data Collection by using Web scrapping technique and do dashboard visualization
+# Data Collection by using Web scrapping technique and do dashboard visualization
 
 ## Table of Contents
 
