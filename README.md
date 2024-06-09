@@ -113,10 +113,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Make your changes and commit them.
 - Push your changes to your fork and create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/) - The web framework used.
