@@ -17,7 +17,7 @@
 
 ## Description
 
-The **Ministry of Data Collection** is a web application designed to collect and manage data from various sources, providing users with a convenient way to access and download the data they need. This README provides an overview of the project, how to set it up, and how to use it.
+The pos is a web application designed to collect and manage data from various sources, providing users with a convenient way to access and download the data they need. This README provides an overview of the project, how to set it up, and how to use it.
 
 ## Features
 
